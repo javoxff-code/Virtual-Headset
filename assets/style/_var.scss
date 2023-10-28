@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sarpanch:wght@400;500;600;700;800;900&display=swap');
+
+@font-face{
+    font-family: "Satoshi Variable";
+    src: url("../Fonts/Variable/Satoshi-Variable.ttf");
+}
+
+@font-face{
+    font-family: "Satoshi";
+    src: url("../Fonts/OTF/Satoshi-Black.otf");
+}
+
+$font1:"Satoshi Variable";
+$font2:"Sarpanch";
+$font3:"Satoshi";
+$primary:#fff;
+$secondary:#182627;
+$tertiary:#3DDEED;
+$quaternary:rgba(255, 255, 255, 0.20);
+$senary:rgba(255, 255, 255, 0.60);
+$septenary:rgba(255, 255, 255, 0.80);
+$octonary:#7B678A;
+$nonary:#BEAFC3;
+$denary:#0F041C;
+$purple:#BF23F5;
